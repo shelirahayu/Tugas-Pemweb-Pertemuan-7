@@ -1,0 +1,24 @@
+/* Style untuk hero section */
+.hero {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.body{
+    background-image: none;
+    background-size: auto;
+}
+
+
+
